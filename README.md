@@ -6,9 +6,9 @@
 
 If you have a nodejs environment, you can use http-server to run
 
-`npm i -g http-server`
-`cd squid-holder`
-`http-server -p 8090`
+`npm i -g http-server &&
+&& cd squid-holder
+http-server -p 8090`
 
 Finally, just open the corresponding console
 
