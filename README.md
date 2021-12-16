@@ -14,5 +14,5 @@ Finally, just open the corresponding console
 
 You can also browse directly to
 
-https://ipfs.io/ipfs/QmNaDiKbEUY1Y5Vh499AUQU4zZMwUpyE5q3XpGrsvDZpuW/
-https://gateway.pinata.cloud/ipfs/QmNaDiKbEUY1Y5Vh499AUQU4zZMwUpyE5q3XpGrsvDZpuW/
+https://ipfs.io/ipfs/QmRkKRMdyumJKUYSf2io28S76jThD5M5Ah8oUJckorhUBD/
+https://gateway.pinata.cloud/ipfs/QmRkKRMdyumJKUYSf2io28S76jThD5M5Ah8oUJckorhUBD/
